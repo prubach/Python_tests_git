@@ -13,4 +13,5 @@ def run(n=n):
             print(' ' + str(i), end='')
 
 
-run(100)
+if __name__ == "__main__":
+    run(100)
