@@ -73,7 +73,3 @@ def create_thumbnail(size, path):
     image.thumbnail(size)
     image.save(thumbnail_path)
 
-
-
-
-
